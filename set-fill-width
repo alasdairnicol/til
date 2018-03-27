@@ -1,0 +1,7 @@
+C-U 80 C-x f sets the fill width to 80
+
+M-q fills
+
+.emacs place (setq-default fill-column 80)
+
+https://stackoverflow.com/questions/3566727/how-to-set-the-default-width-of-fill-mode-to-80-with-emacs
