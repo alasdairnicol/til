@@ -1,0 +1,3 @@
+If git branch doesn't show you enough info, then git remote show origin is pretty nifty.
+
+    git remote show origin
