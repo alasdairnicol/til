@@ -1,0 +1,17 @@
+You can search for
+
+    git grep -I --name-only ^M
+
+to type ^M you type Ctrl-V Ctrl-M
+
+-I excludes binary files
+--name-only returns only the filenames
+
+https://superuser.com/a/194672
+
+Change coding
+
+C-x RET f
+unix
+
+https://www.emacswiki.org/emacs/DosToUnix
