@@ -1,0 +1,11 @@
+Detect BOM
+
+find . -type f -print0 | xargs -0r awk '/^\xEF\xBB\xBF/ {print FILENAME} {nextfile}' > bom
+
+http://muzso.hu/2011/11/08/using-awk-sed-to-detect-remove-the-byte-order-mark-bom
+
+C-x RET f
+
+Change from utf-8-with-signature to ut8-8
+
+https://stackoverflow.com/questions/3859274/removing-byte-order-marks-boms-using-emacs
