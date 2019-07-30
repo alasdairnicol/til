@@ -2,6 +2,8 @@ baseURL = "https://tal.sdair.co.uk/"
 languageCode = "en-gb"
 title = "Today Alasdair Learned"
 theme = "terminal"
+# ["orange", "blue", "red", "green", "pink"]
+themeColor = "blue"
 
 [languages]
   [languages.en]
