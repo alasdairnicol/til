@@ -3,6 +3,14 @@ languageCode = "en-gb"
 title = "Today Alasdair Learned"
 theme = "terminal"
 
+[languages]
+  [languages.en]
+      title = "Today Alasdair Learned"
+
+      [languages.en.params.logo]
+          logoText = "Today Alasdair Learned"
+          logoHomeLink = "/"
+
 [params]
    fullWidthTheme = false
    centerTheme = false
