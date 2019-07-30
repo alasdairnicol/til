@@ -1,4 +1,4 @@
-baseURL = "http://til.al.sdair.co.uk/"
+baseURL = "https://til.al.sdair.co.uk/"
 languageCode = "en-gb"
 title = "Today Alasdair Learned"
 theme = "terminal"
