@@ -2,17 +2,17 @@ baseURL = "https://tal.sdair.co.uk/"
 languageCode = "en-gb"
 title = "Today Alasdair Learned"
 theme = "terminal"
-# ["orange", "blue", "red", "green", "pink"]
-themeColor = "blue"
 
 [languages]
   [languages.en]
-      title = "Today Alasdair Learned"
+    title = "Today Alasdair Learned"
 
-      [languages.en.params.logo]
-          logoText = "Today Alasdair Learned"
-          logoHomeLink = "/"
+    [languages.en.params.logo]
+      logoText = "Today Alasdair Learned"
+      logoHomeLink = "/"
 
 [params]
-   fullWidthTheme = false
-   centerTheme = false
+  fullWidthTheme = false
+  centerTheme = false
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "blue"
