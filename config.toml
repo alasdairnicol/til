@@ -2,6 +2,7 @@ baseURL = "https://tal.sdair.co.uk/"
 languageCode = "en-gb"
 title = "Today Alasdair Learned"
 theme = "terminal"
+Copyright = "© 2019 Alasdair Nicol | Terminal Theme by panr"
 
 [languages]
   [languages.en]
