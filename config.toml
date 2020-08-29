@@ -17,3 +17,6 @@ Copyright = "© 2020 Alasdair Nicol | Terminal Theme by panr"
   centerTheme = false
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "blue"
+
+[permalinks]
+  posts = "/:year/:month/:title/"
