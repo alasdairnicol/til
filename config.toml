@@ -21,3 +21,7 @@ Copyright = "© 2020 Alasdair Nicol | Terminal Theme by panr"
 
 [permalinks]
   posts = "/:year/:month/:filename/"
+
+[build]
+publish = "public"
+command = "hugo --gc --minify"
