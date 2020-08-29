@@ -1,10 +1,10 @@
 +++
-title = "How to put \n in YAML"
+title = "How to put \\n in YAML"
 date = "2020-08-27"
 author = "Alasdair Nicol"
 cover = ""
 tags = ["yaml"]
-description = "TLDR: - Use double quotes if you want to use `\n` to be treated as a newline e.g. `message: \"hello\nworld\""
+description = "TLDR: - Use double quotes if you want to `\\n` to be treated as a newline e.g. `message: \"hello\\nworld\""
 showFullContent = false
 +++
 
