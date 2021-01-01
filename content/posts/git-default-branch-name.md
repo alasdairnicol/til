@@ -15,7 +15,15 @@ To use `main`, which matches the default behaviour of GitHub
 (configurable [here][2]), you can run:
 
 ```
-$ git config --global init.defaultBranch main
+git config --global init.defaultBranch main
+```
+
+If you prefer, you can edit your `.gitconfig` file directly and add
+the following:
+
+```
+[init]
+	defaultBranch = main
 ```
 
 [1]: https://github.blog/2020-07-27-highlights-from-git-2-28/
